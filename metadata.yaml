@@ -1,0 +1,34 @@
+_repo: Electricity-for-the-4-H-ScientistIdaho-Agricultural-Extension-Service-Bulletin-396-June-1962_38036
+_version: 0.1.0
+alternative_title: "Electricity for the Four-H Scientist\r\nIdaho Agricultural Extension\
+  \ Service Bulletin 396, June, 1962"
+covers:
+- cover_type: archival
+  image_path: 38036-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Wilson, Eric B.
+    gutenberg_agent_id: '39214'
+    url: http://www.gutenberg.org/2009/agents/39214
+description: ''
+gutenberg_issued: '2011-11-16'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '38036'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Electricity -- Juvenile literature'
+- !lcc 'QC'
+tableOfContents: 'How to use this book -- Getting acquainted with electricity -- Tools
+  for electricians -- Rewire a lamp: be a lamp detective -- Make a trouble light --
+  What makes motors run -- Taking care of electric motors -- Reading the electric
+  meter -- Ironing is fun -- Let''s be friends with electricity -- How electric bells
+  work: for you -- First aid for electrical injuries -- How electricity heats -- Mysterious
+  magnetism -- Give your appliances and lights a square meal -- You can measure electricity.'
+title: 'Electricity for the 4-H Scientist
+
+  Idaho Agricultural Extension Service Bulletin 396, June, 1962'
+url: http://www.gutenberg.org/ebooks/38036
