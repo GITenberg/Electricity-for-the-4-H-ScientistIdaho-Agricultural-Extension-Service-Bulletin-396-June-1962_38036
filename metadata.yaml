@@ -24,6 +24,7 @@ rights_url: http://creativecommons.org/about/pdm
 subjects:
 - !lcsh 'Electricity -- Juvenile literature'
 - !lcc 'QC'
+- GITenberg
 tableOfContents: 'How to use this book -- Getting acquainted with electricity -- Tools
   for electricians -- Rewire a lamp: be a lamp detective -- Make a trouble light --
   What makes motors run -- Taking care of electric motors -- Reading the electric
